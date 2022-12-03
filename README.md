@@ -1,4 +1,4 @@
-# Solana NFT Drop Project (adapted from Buildspace)
+# Solana NFT Drop Project
 
 ### Welcome 👋
 
